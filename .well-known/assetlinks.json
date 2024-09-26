@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.app.comejoin",
+    "package_name": "app.comejoin.com",
     "sha256_cert_fingerprints":
     ["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32"]
   }
