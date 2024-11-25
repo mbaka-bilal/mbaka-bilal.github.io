@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.comejoin.app",
+    "package_name": "com.comjoin.app",
     "sha256_cert_fingerprints":
     ["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
     "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
@@ -13,7 +13,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.comejoin.dev",
+    "package_name": "com.comjoin.dev",
     "sha256_cert_fingerprints":
 ["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
     "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
@@ -23,7 +23,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.comejoin.staging",
+    "package_name": "com.comjoin.staging",
     "sha256_cert_fingerprints":
 ["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
     "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
