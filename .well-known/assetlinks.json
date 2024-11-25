@@ -1,11 +1,13 @@
-[{
+[
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.comjoin.app",
     "sha256_cert_fingerprints":
-    ["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
-    "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
+    [
+      "C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
+      "3B:85:33:4A:E2:72:3D:C9:22:3E:63:6E:BA:80:6A:B2:73:48:80:91:0C:D2:10:2E:21:B5:0E:C0:8C:97:98:4F"
     ]
   }
 },
@@ -15,18 +17,22 @@
     "namespace": "android_app",
     "package_name": "com.comjoin.dev",
     "sha256_cert_fingerprints":
-["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
-    "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
-    ]  }
+    [
+      "C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
+      "3B:85:33:4A:E2:72:3D:C9:22:3E:63:6E:BA:80:6A:B2:73:48:80:91:0C:D2:10:2E:21:B5:0E:C0:8C:97:98:4F"
+    ]
+  }
 },
-  {
+{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.comjoin.staging",
     "sha256_cert_fingerprints":
-["C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
-    "3b:85:33:4a:e2:72:3d:c9:22:3e:63:6e:ba:80:6a:b2:73:48:80:91:0c:d2:10:2e:21:b5:0e:c0:8c:97:98:4f"
-    ]  }
+    [
+      "C2:8F:3C:03:F3:9D:76:AB:77:2F:73:B0:6C:B5:76:B6:8D:BE:90:92:02:E0:E3:1B:DC:28:2D:C8:D8:EA:5B:32",
+      "3B:85:33:4A:E2:72:3D:C9:22:3E:63:6E:BA:80:6A:B2:73:48:80:91:0C:D2:10:2E:21:B5:0E:C0:8C:97:98:4F"
+    ]
+  }
 }
 ]
